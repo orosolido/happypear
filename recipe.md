@@ -1,4 +1,4 @@
-#Rcepei: How to make Thai red curry Ramen
+#Recipe: How to make Thai red curry Ramen
 
 ##Instructions
 
